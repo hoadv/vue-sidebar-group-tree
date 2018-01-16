@@ -1,0 +1,25 @@
+{
+  "name": "vue-sidebar-group-tree",
+  "version": "1.0.4",
+  "description": "The vue sidebar group tree",
+  "main": "index.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoadv/vue-sidebar-group-tree.git"
+  },
+  "keywords": [
+    "vuejs",
+    "sidebar group tree",
+    "vue sidebar group tree",
+	"sidebar group tree vue"
+  ],
+  "author": "HoaDang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoadv/vue-sidebar-group-tree/issues"
+  },
+  "homepage": "https://github.com/hoadv/vue-sidebar-group-tree#readme"
+}
