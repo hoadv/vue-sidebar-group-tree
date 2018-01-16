@@ -1,6 +1,7 @@
 # Description
 The vue side bar group tree
 
+
 # Installation
 npm i vue-sidebar-group-tree
 
@@ -23,3 +24,12 @@ categories = [
           ]
         }
 ]
+
+categoryId: null,
+
+subcategoryId: null,
+
+setting: {title: 'The title'}
+
+# Sample
+Refer to sample\ex
