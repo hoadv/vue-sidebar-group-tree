@@ -1,6 +1,7 @@
 # Description
 The vue side bar group tree
 
+![image](https://user-images.githubusercontent.com/8998946/34971908-88a85b16-fab0-11e7-8a1a-19182f9c47e7.png)
 
 # Installation
 npm i vue-sidebar-group-tree
